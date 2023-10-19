@@ -1,0 +1,321 @@
+@media screen and (min-width:1100px) {
+    body{
+        font-family: 'Heebo', sans-serif;
+        background-color: white;
+    }
+    #webpage{
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 0px;
+            
+    }
+    .background{
+        background-color: #F5F7FA;
+    }
+    .a1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+       
+    }
+    #div-1{
+        color: #263238;
+        display: flex;
+        justify-content: left;
+        font-size: 30px;
+    }
+    #div-2{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        justify-content: center;
+        width: 500px;
+        font-size: 15px;
+    }
+    #div-3{
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: right;
+        gap: 15px;
+    }
+    .login{
+        height: 30px;
+        width: 75px;
+        font-size: 15px;
+        color:#4CAF4f ;
+        background-color: #F5F7FA;
+        border-radius: 7px;
+    }
+    .signup{
+        height: 30px;
+        width: 75px;
+        font-size: 15px;
+        background-color: #4CAF4F;
+        color: #F5F7FA;
+        border-radius: 7px;
+    }
+    .a2{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 50px;
+    }
+    #div-4{
+        width: 515px;
+        height: 400px;
+        margin-left:25px ;
+    }
+    #Lessonsandinsights{
+        color: #4D4D4D;
+        font-size: 50px;
+        margin-bottom: 0px;
+        margin-top: 100px;
+        margin-left: 10px;
+    }
+    #from8years{
+        color: #4CAF4F;
+        font-size: 50px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+    #para-1{
+        color: #717171;
+        font-size: 13px;
+        margin-top: 0px;
+        margin-left: 10px;
+    }
+    #button-1{
+        color: white;
+        background-color:  #4CAF4F;
+        margin-left: 10px;
+        width: 100px;
+        height: 35px;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+    #img-1{
+        margin-top: 50px;
+        width: 350px;
+        height: 350px;
+
+    }
+    #dot{
+        display: flex;
+        justify-content: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        gap: 10px;
+        border-radius: 10px;
+    }
+    .dot{
+        height: 10px;
+        width: 10px;
+        background-color: #4CAF4F;
+        border-radius: 50%;
+        display: inline-block;
+    }
+    #div-5{
+        text-align: center;
+    } 
+    .color-1{
+        color: #4D4D4D;
+    }
+    .color-2{
+        color: #717171;
+    }
+    #div-6{
+        display: flex;
+        justify-content: space-around;
+    }
+    #div-7{
+        margin: auto;
+        text-align: center;
+        width: 480px;
+    }
+    #div-8{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        text-align: center;
+    } 
+    .article-1{
+        margin: 65px;
+    }
+    #div-9{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 40px;
+    }
+    .z2{
+        padding-top: 30px;
+    }
+  
+    #button-2{
+        width: 100px;
+        height: 35px;
+        font-size: 15px;
+        border-radius: 5px;
+        background-color: #4CAF4F; 
+        color: white;
+    }
+    
+    .background-1{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: #F5F7FA;
+        width: 100%;
+        padding-bottom: 50px;
+        height: 350px;
+    }
+    #helping{
+        margin-bottom: 0px;
+        color: #4D4D4D;
+    }
+    #business{
+        margin-top: 0px;
+        color: #4CAF4F;
+    }
+    #para-2{
+        color: #263238;
+    }
+    #id-10{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .z3{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 500px;
+    }
+    .z4{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin: 10px;
+        width: 100%;
+    }
+    .z5{
+        align-self: center;
+        margin-right: 0px;
+    }
+    #div-10{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 40px;
+    }
+    #button-3{
+        width: 100px;
+        height: 35px;
+        font-size: 15px;
+        border-radius: 5px;
+        background-color: #4CAF4F; 
+        color: white;
+    }
+    #div-11{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 40px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    #div-12{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    #anchor-1{
+        text-decoration: none;
+        color: #4CAF4F;
+        font-size: 15px;
+    }
+    #div-13{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    #div-14{
+        width: 60%;
+        align-self: center;
+    }
+    #span-1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;      
+    }
+    #footer{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    #footer-1{
+        width: 60%;
+        align-self: center; 
+        font-size: 25px;
+    }
+    .color-3{
+        color: #263238;
+        margin-bottom: 0px;
+    }
+    #button-4{
+        color:white ;
+        background-color: #4CAF4f;
+        font-size: 20px;
+        height: 60px;
+        width: 210px;
+        border-radius: 10px;
+        margin-bottom: 30px;
+    }
+    #footer-2{
+        width: 100%;
+        background-color: #263238;
+        display: flex;
+        flex-direction:row ;
+        justify-content: space-around;
+        align-items: center;
+        height: 400px;
+    }
+    #n1{
+        display: flex;
+        flex-direction: row;
+        font-size: 23px;
+        
+    }
+    #n2{
+        text-align: left;
+    }
+    .o1{
+        color: white;
+    }
+    .o2{
+        font-size: 25px;
+        align-self:auto ;
+    }
+    #m2{
+        width: 60%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    #n3{
+        text-align: left;
+    }
+    #n4{
+        text-align: left;
+    }
+    .para-1{
+        font-size: 15px;
+    }
+    #para1{
+        font-size:15px ;
+    }
+}
